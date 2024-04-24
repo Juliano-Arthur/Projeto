@@ -1,26 +1,28 @@
-body{
+body {
     background-color: black;
 }
 
-div{
+div {
     display: flex;
     justify-content: center;
     height: 400;
     width: 640;
 }
 
-h1{
+h1 {
     color: white;
     text-align: center;
 }
-.texto{
+
+.texto {
     color: white;
     margin-right: 20px;
     margin-left: 20px;
     font-size: 25px;
     text-align: center;
 }
-footer{
+
+footer {
     text-align: center;
     color: white;
     margin-top: 240px;
